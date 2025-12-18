@@ -7,27 +7,27 @@ import { Badge } from '@/components/ui/badge';
 const projects = [
   {
     id: 1,
-    title: 'MedFlow – Smart Hospital System',
+    title: 'Medhub – Smart Hospital System',
     description: 'A real-time dashboard and patient management system built for hospital operations.',
     longDescription: 'A comprehensive hospital management system with real-time dashboard, patient management, appointment scheduling, and AI-powered analytics. Built with React.js and advanced AI integrations for optimal healthcare operations.',
     image: "/med1.png",
     tags: ['React.js', 'AI', 'Dashboard', 'Healthcare'],
     category: 'AI',
-    github: '#',
-    live: 'https://medflow-seven.vercel.app/',
+    github: 'https://github.com/kunal-7x/medhub',
+    live: 'https://medhub-7x.vercel.app/',
     featured: true,
     screenshots: ['/med1.png', '/api/placeholder/800/600', '/api/placeholder/800/600']
   },
   {
     id: 2,
-    title: 'HabitVerse – Productivity OS',
+    title: 'life os – Productivity OS',
     description: 'A fully featured productivity tool with AI, habits, goals, and squad support.',
     longDescription: 'A comprehensive productivity operating system that combines habit tracking, goal setting, AI-powered insights, and team collaboration features. Features include streak tracking, productivity analytics, and social challenges.',
     image: '/Screenshot 2025-07-26 031540.png',
     tags: ['React.js', 'AI', 'Productivity', 'Social'],
     category: 'Productivity',
-    github: '#',
-    live: 'https://habitverse-os.vercel.app/',
+    github: 'https://github.com/kunal-7x/lifeos',
+    live: 'https://lifeos-7x.vercel.app/',
     featured: true,
     screenshots: ['/Screenshot 2025-07-26 031540.png', '/api/placeholder/800/600', '/api/placeholder/800/600']
   }
