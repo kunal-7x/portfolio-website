@@ -11,8 +11,44 @@ const achievements = [
     icon: Star,
     color: 'from-green-500 to-teal-500',
     year: '2024'
+  },
+  {
+    title: '• State-level Cultural Art Competitions',
+    description:  ' Secured 3rd rank twice and win bronze medals in 2022 and 2024',
+    icon: Trophy,
+    color: 'from-purple-500 to-pink-500',
+    year: '2023,2024'
+  },
+  {
+    title: '• District-Level Mathematics Olympiad',
+    description:  ' Participated in 2023, demonstrating strong problem-solving skills',
+    icon: Medal,
+    color: 'from-yellow-400 to-orange-500',
+    year: '2023'
+  },
+  {
+    title: '• State-Level Chess Player',
+    description:  'Strategic thinking and pattern recognition',
+    icon: Award,
+    color: 'from-blue-500 to-indigo-500',
+    year: '2022'
+  },
+  {
+    title: '• State-Level Yoga Participant',
+    description:  'Focus, discipline, and mind-body control',
+    icon: Star,
+    color: 'from-teal-500 to-green-500',
+    year: '2024'
+  },
+  {
+    title: '• Gold Medal – IIT Madras “Paradox” Art Championship',
+    description:  'Secured a gold medal in the art championship',
+    icon: Trophy,
+    color: 'from-green-500 to-teal-500',
+    year: '2025'
   }
-];
+]; 
+
 
 export const AchievementsSection = () => {
   const ref = useRef(null);

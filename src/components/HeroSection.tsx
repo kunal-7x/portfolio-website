@@ -183,7 +183,7 @@ export const HeroSection = () => {
                 ease: "easeInOut"
               }}
             > <div className="text-4xl md:text-7xl lg:text-9xl font-bold ">
-    Partik Prajapat
+    kunal kumar
             </div>
             
             </motion.h1>
@@ -196,7 +196,7 @@ export const HeroSection = () => {
               <Typewriter
                 options={{
                   strings:[
-                    'B.Tech in Computer Science @ SPSU',
+                    'B.S. in Data Science @IITM',
                       
                     'Transforming Raw Data Into Real Solutions',
                     '200+ DSA Problems Solved',
@@ -206,7 +206,7 @@ export const HeroSection = () => {
                     'Translating Numbers Into Decisions',
                     'Exploring AI and Data Pipelines',
                     'Future Data Scientist',
-                    'Built 2 Practical Projects',
+                    'Built 3 Practical Projects',
                     'Problem Solver | Data Thinker',
                     'Driven by Curiosity and Logic',
                     'Clean Code. Clean Data.',
@@ -235,9 +235,9 @@ export const HeroSection = () => {
             transition={{ duration: 0.8, delay: 0.4 }}
             className="text-lg md:text-xl lg:text-2xl font-inter font-light text-muted-foreground/70 max-w-4xl mx-auto leading-relaxed"
           >
-            {/* A passionate Data Science student at IIT Madras, focused on building 
+            A passionate Data Science student at IIT Madras, focused on building 
             <span className="text-primary font-medium"> data-powered systems</span> and 
-            extracting <span className="text-accent font-medium">insights from numbers</span>. */}
+            extracting <span className="text-accent font-medium">insights from numbers</span>.
           </motion.p>
 
           {/* Premium Stats */}
@@ -319,8 +319,8 @@ export const HeroSection = () => {
             className="flex items-center justify-center space-x-4 pt-8 pb-16"
           >
             {[
-               { icon: Linkedin, href:  'https://www.linkedin.com/in/partik7/', label: 'LinkedIn', color: 'hover:text-blue-400' },
-              { icon: Mail, href: 'mailto:partikprajapat7@gmail.com', label: 'Email', color: 'hover:text-accent' },
+               { icon: Linkedin, href:  'https://www.linkedin.com/in/kunal7x/', label: 'LinkedIn', color: 'hover:text-blue-400' },
+              { icon: Mail, href: 'mailto:kunalkumar13790@gmail.com', label: 'Email', color: 'hover:text-accent' },
             ].map((social) => (
               <motion.a
                 key={social.label}

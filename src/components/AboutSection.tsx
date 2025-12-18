@@ -7,11 +7,11 @@ const timeline = [
  
 
   
-     { year: '2022-2026', title: ' Sir Padampat Singhania University, Udaipur', description: 'Pursuing degree in Computer Science', icon: Calendar },
+     { year: '2024-2028', title: 'Indian Institute of Technology, Madras', description: 'Pursuing degree in Data Science', icon: Calendar },
 
    { year: '2023...', title: 'Full-Stack Web Development', description: 'Mastered React, Node.js & databases', icon: Code2 },
-  { year: '2024...', title: 'AI/ML and Data Tools', description: 'Built data-powered applications', icon: Brain },
-  { year: 'May 2025 - July 2025', title: 'Internship', description: 'Completed internship at  CodeTech IT Solutions Pvt. Ltd. as  Full Stack Developer Intern ', icon: Award },
+  { year: '2023...', title: 'AI/ML and Data Tools', description: 'Built data-powered applications', icon: Brain },
+  { year: 'May 2025 - July 2025', title: ' McKinsey & Company - Forward Learning Program', description: '', icon: Award },
 
 ];
 
@@ -82,7 +82,7 @@ export const AboutSection = () => {
               className="space-y-6"
             >
               <p className="text-lg text-muted-foreground leading-relaxed">
-                I am Partik Prajapat, a student at SPSU pursuing a B.Tech in Computer Science. I'm passionate about logic, 
+                I am kunal kumar , a student at IIT Madras pursuing a B.S. in Data Science. I'm passionate about logic, 
                 problem-solving, and building data-driven products. From web development to AI automation, I've completed 
                 2 projects and solved 200+ DSA problems.
               </p>
@@ -151,7 +151,7 @@ export const AboutSection = () => {
                       <div class="bg-background rounded-xl p-6 max-w-md w-full glass">
                         <h3 class="text-xl font-space font-semibold mb-4">About PP Partik Prajapat</h3>
                         <p class="text-muted-foreground leading-relaxed">
-                          I am Partik Parajapat, currently pursuing a B.Tech in computer Science at spsu.                         </p>
+                          I am kunal kumar, currently pursuing a B.S. in Data Science at IIT Madras.                         </p>
                         <button onclick="this.parentElement.parentElement.remove()" class="mt-4 px-4 py-2 bg-primary text-primary-foreground rounded-lg">Close</button>
                       </div>
                     `;
@@ -163,8 +163,8 @@ export const AboutSection = () => {
                   </div>
                   <div className="absolute inset-0 bg-gradient-to-t from-background/50 to-transparent rounded-3xl" />
                   <div className="absolute bottom-6 left-6 right-6">
-                    <h3 className="font-space font-semibold text-lg">PP Partik Prajapat</h3>
-                    <p className="text-muted-foreground text-sm">Computer Science Student at SPSU</p>
+                    <h3 className="font-space font-semibold text-lg">Kunal Kumar</h3>
+                    <p className="text-muted-foreground text-sm">Data Science Student at IIT Madras</p>
                   </div>
                 </div>
                 <div className="absolute -inset-1 bg-gradient-to-r from-primary/50 to-accent/50 rounded-3xl blur opacity-0 group-hover:opacity-100 transition-opacity -z-10" />

@@ -11,15 +11,15 @@ const contactMethods = [
   {
     icon: Mail,
     label: 'Email',
-    value: 'partikprajapat7@gmail.com',
-    href: 'mailto:partikprajapat7@gmail.com',
+    value: 'kunalkumar13790@gmail.com',
+    href: 'mailto:kunalkumar13790@gmail.com',
     copyable: true
   },
   {
     icon: Phone,
     label: 'Phone',
-    value: '+91 6376980812',
-    href: 'tel:+916376980812',
+    value: '+91 6375548830',
+    href: 'tel:+916375548830',
     copyable: true
   },
   {
@@ -42,13 +42,13 @@ const socialLinks = [
   {
     icon: Github,
     label: 'GitHub',
-    href: 'https://github.com/kunalkumar',
+    href: 'https://github.com/kunal-7x',
     color: 'hover:text-gray-400'
   },
   {
     icon: Linkedin,
     label: 'LinkedIn',
-    href: 'https://www.linkedin.com/',
+    href: 'https://www.linkedin.com/in/kunal7x',
     color: 'hover:text-blue-400'
   },
 ];
