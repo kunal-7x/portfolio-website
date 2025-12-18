@@ -235,9 +235,9 @@ export const HeroSection = () => {
             transition={{ duration: 0.8, delay: 0.4 }}
             className="text-lg md:text-xl lg:text-2xl font-inter font-light text-muted-foreground/70 max-w-4xl mx-auto leading-relaxed"
           >
-            A passionate Data Science student at IIT Madras, focused on building 
+            {/* A passionate Data Science student at IIT Madras, focused on building 
             <span className="text-primary font-medium"> data-powered systems</span> and 
-            extracting <span className="text-accent font-medium">insights from numbers</span>.
+            extracting <span className="text-accent font-medium">insights from numbers</span>. */}
           </motion.p>
 
           {/* Premium Stats */}
