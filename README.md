@@ -1,73 +1,169 @@
-# Welcome to your Lovable project
+# Kunal Kumar — Portfolio 🚀
 
-## Project info
+Welcome to my personal portfolio repository.  
+This website showcases my education, skills, projects, and achievements as a **Data Science undergraduate at IIT Madras**, with a strong focus on **software development, data-driven products, and real-world impact**.
 
-**URL**: https://lovable.dev/projects/e13c8a95-d1c6-4d48-9b3e-8edb0255a5a5
+---
 
-## How can I edit this code?
+## 👨‍💻 About Me
 
-There are several ways of editing your application.
+I am **Kunal Kumar**, a Bachelor of Science student in **Data Science and Applications** at the **Indian Institute of Technology Madras (IIT Madras)**.
 
-**Use Lovable**
+- Strong foundation in **Data Structures & Algorithms**, **DBMS**, and **Computer Networks**
+- Hands-on experience with **full-stack development** and **data visualization**
+- Passionate about building **scalable, user-focused products**
+- Fast learner with strong problem-solving and system-thinking abilities
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/e13c8a95-d1c6-4d48-9b3e-8edb0255a5a5) and start prompting.
+📍 **Location:** Parlai, Sirohi, Rajasthan, India  
+📧 **Email:** kunalkumar13790@gmail.com  
+📞 **Phone:** +91 637-554-8830  
+🔗 **LinkedIn:** [LinkedIn Profile](#)
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 🎓 Education
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+**Indian Institute of Technology Madras (IIT Madras)**  
+**Bachelor of Science in Data Science and Applications**  
+📍 Chennai, India  
+📅 Sept 2024 – May 2028  
+🎯 **Current CGPA:** 8.5 / 10
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### Relevant Coursework
+- Data Structures & Algorithms  
+- Database Management Systems  
+- Computer Networks  
+- Linear Algebra  
+- Probability & Statistics  
+- Machine Learning  
+- Data Visualization  
+- Web Development  
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## 🧠 Professional Summary
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Data Science undergraduate at IIT Madras with strong foundations in **DSA, full-stack development, and software design**.  
+Built real-world dashboards for **productivity and healthcare** using **React.js, REST APIs, and Firebase**, with a focus on **clean UI and real impact**.
 
-# Step 3: Install the necessary dependencies.
-npm i
+- Solved **200+ DSA problems** on LeetCode  
+- Comfortable with **Git, Linux, and cloud deployment**
+- Interested in **high-impact tech teams and scalable systems**
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+---
 
-**Edit a file directly in GitHub**
+## 🛠 Technical Skills
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+### Programming Languages
+- Python
+- Java
+- C++
+- JavaScript
 
-**Use GitHub Codespaces**
+### Libraries & Data Tools
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+### Frameworks & Technologies
+- React.js
+- Node.js
+- Firebase
+- MongoDB
+- REST APIs
 
-## What technologies are used for this project?
+### Databases
+- MySQL
+- PostgreSQL
+- MongoDB
 
-This project is built with:
+### Tools & Platforms
+- Git & GitHub
+- Linux
+- VS Code
+- Jupyter Notebook
+- Postman
+- Docker (Basic)
+- Vercel
+- Figma
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+### Core CS Concepts
+- Data Structures & Algorithms
+- Object-Oriented Programming (OOP)
+- Operating Systems
+- Database Management Systems
 
-## How can I deploy this project?
+---
 
-Simply open [Lovable](https://lovable.dev/projects/e13c8a95-d1c6-4d48-9b3e-8edb0255a5a5) and click on Share -> Publish.
+## 💻 Projects
 
-## Can I connect a custom domain to my Lovable project?
+### 🧠 Life OS — Behavioral Analytics & Productivity Platform
+**Tech Stack:** React.js, Data Visualization  
 
-Yes, you can!
+- Developed a **dashboard-based analytics platform** to track user behavior, habits, and productivity trends  
+- Delivered **actionable insights** using interactive graphs and personalized metrics  
+- Designed a **user-friendly UI** suitable for HR, wellness, and productivity analytics use cases  
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+🔗 **Live Demo:** Coming Soon  
+🔗 **GitHub:** Coming Soon  
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+---
+
+### 🏥 MedHub — Intelligent Healthcare Operations Dashboard
+**Tech Stack:** React.js, REST APIs  
+
+- Built a **real-time hospital dashboard** for patient and department data management  
+- Reduced **manual operations by 40%** using streamlined visual workflows  
+- Implemented **modular UI design** aligned with hospital digital transformation needs  
+
+🔗 **Live Demo:** Coming Soon  
+🔗 **GitHub:** Coming Soon  
+
+---
+
+## 📜 Certifications
+
+### Forward Learning Program — McKinsey & Company
+📅 March 2025 – July 2025  
+🎓 **Credential ID:** 6875af21-7170-4449-abd7-2d207c5277fe  
+
+- Trained in **problem-solving frameworks**
+- Experience with **agile teamwork**
+- Improved **structured communication and professional thinking**
+
+---
+
+## 🏆 Achievements & Honors
+
+- 🥇 **Gold Medal** — IIT Madras Paradox Art Championship (2025)  
+- 🥉 **Bronze Medal** — State-Level Cultural Art Competitions (2022, 2024)  
+- ♟ **State-Level Chess Player** — Strong strategic thinking and pattern recognition  
+- 🧮 **District-Level Mathematics Olympiad Participant** (2022)  
+- 🧘 **State-Level Yoga Participant** (2023) — Focus, discipline, and mind-body control  
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Data Structures & Algorithms  
+- System Design Basics  
+- Machine Learning & AI  
+- Scalable Web Architectures  
+
+---
+
+## 🤝 Let's Connect
+
+I am open to:
+- Internships
+- Open-source contributions
+- Software & data science roles
+- Collaborative tech projects
+
+📧 **Email:** kunalkumar13790@gmail.com  
+🔗 **LinkedIn:** [LinkedIn Profile](#)
+
+---
+
+⭐ If you like my work, feel free to **star this repository** and connect with me!
