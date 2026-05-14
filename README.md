@@ -21,7 +21,7 @@ I am **Kunal Kumar**, a Bachelor of Science student in **Data Science and Applic
 
 ---
 
-## 🎓 Education
+## 🎓 Education:-
 
 **Indian Institute of Technology Madras (IIT Madras)**  
 **Bachelor of Science in Data Science and Applications**  
