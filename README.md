@@ -162,7 +162,7 @@ I am open to:
 - Collaborative tech projects
 
 📧 **Email:** kunalkumar13790@gmail.com  
-🔗 **LinkedIn:** [LinkedIn Profile](#)
+🔗 **LinkedIn:** [LinkedIn Profile]()
 
 ---
 
