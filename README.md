@@ -5,7 +5,7 @@ This website showcases my education, skills, projects, and achievements as a **D
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me:-
 
 I am **Kunal Kumar**, a Bachelor of Science student in **Data Science and Applications** at the **Indian Institute of Technology Madras (IIT Madras)**.
 
